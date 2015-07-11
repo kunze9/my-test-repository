@@ -1,2 +1,2 @@
-my-test-repository
+My Test Repository
 ==================
